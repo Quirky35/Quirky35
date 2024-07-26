@@ -1,4 +1,4 @@
-## Hello There,WHats Up?!!!
+## Hello There,  Whats Up?!!!
 
 <h1 align="center">Hi 👋, I'm Pramith Suvarna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
