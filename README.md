@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vWidth=435&lines=Hi+there%2C+I'm+Pramith+%F0%9F%91%8B;Frontend+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 
-<p>A passionate frontend developer from Bangalore, India 🇮🇳</p>
+<p>A passionate Software developer from Bangalore, India 🇮🇳</p>
 
 ---
 
